@@ -1,0 +1,1 @@
+Repro for https://github.com/liquibase/liquibase/issues/6148
